@@ -71,7 +71,6 @@ moralis: JavaScript SDK for Moralis.
 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-License
-This project is licensed under the MIT License.
+
 
 Replace the placeholders like yourusername, your_discord_bot_token, your_moralis_api_key, and your_discord_channel_id with your actual information. Customize the sections as needed for your project.
