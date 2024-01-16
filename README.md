@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Discord-Moralis-Webhook.git
+git clone https://github.com/vrathikshenoy/Discord_bot.git
 Install dependencies:
 
 bash
