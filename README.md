@@ -23,7 +23,6 @@ Before you begin, ensure you have met the following requirements:
 
 Clone the repository:
 
-'''bash
 git clone https://github.com/vrathikshenoy/Discord_bot.git
 cd Discord-Moralis-Webhook
 npm install
